@@ -35,34 +35,21 @@ Right now, I'm focusing on web development, AI integration, and building product
 ![React](https://img.shields.io/badge/React-0B1120?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 
-### Backend & AI
-![FastAPI](https://img.shields.io/badge/FastAPI-064E3B?style=for-the-badge&logo=fastapi&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-1E293B?style=for-the-badge&logo=tensorflow&logoColor=orange)
-
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me
 
-<div align="center">
-
-![Pradnya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pradz7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradz7&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Pradz7&theme=tokyonight&hide_border=true)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pradnya_Prabawa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradnya-prabawa/)
+[![Instagram](https://img.shields.io/badge/Instagram-@pradd.prbw-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pradd.prbw/)
+[![GitHub](https://img.shields.io/badge/GitHub-Pradz7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradz7)
 
 ---
 
-## 📌 What I Like to Build
+<div align="center">
 
-```txt
-Mobile Apps        █████████░░
-Web Applications   ██████████
-UI/UX Projects     ████████░░
-AI Experiments     ███████░░░
+### ✨ Building smarter apps, one project at a time.
+
+</div>
