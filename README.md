@@ -4,7 +4,7 @@
 
 ### AI Enthusiast | Web Developer | Builder of Smart Apps
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+web+applications;Currently+working+on+TrainWise;Exploring+Machine+Learning+and+Chatbots;Turning+ideas+into+useful+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+web+applications;Exploring+Machine+Learning+and+Chatbots;Turning+ideas+into+useful+products)](https://git.io/typing-svg)
 
 </div>
 
